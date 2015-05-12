@@ -1,4 +1,4 @@
-# tibrun
+# Projet de deux beaux-gosses, TibRun.
 -
 
-omg ce markdown est tellement faux, j'en deviens malade ! :-)
+Venez les amis, on est bien !
